@@ -14,6 +14,9 @@ We propose a continuous spatio-temporal memory (CSTM) network for semi-supervise
 <div align=center><img width="185" height="231" src="https://github.com/DeepTag/CSTM/blob/main/Tagging/NHC023_SAX_8.gif"/><img width="185" height="231" src="https://github.com/DeepTag/CSTM/blob/main/Tagging/NHC023_SAX_7.gif"/><img width="185" height="231" src="https://github.com/DeepTag/CSTM/blob/main/Tagging/NHC023_SAX_6.gif"/><img width="185" height="231" src="https://github.com/DeepTag/CSTM/blob/main/Tagging/NHC023_SAX_5.gif"/></div>
 <div align=center><img width="185" height="231" src="https://github.com/DeepTag/CSTM/blob/main/Tagging/NHC023_SAX_4.gif"/><img width="185" height="231" src="https://github.com/DeepTag/CSTM/blob/main/Tagging/NHC023_SAX_3.gif"/><img width="185" height="231" src="https://github.com/DeepTag/CSTM/blob/main/Tagging/NHC023_SAX_2.gif"/></div>
 
+## Demo for long axis stack of tagged cine MRIs
+<div align=center><img width="185" height="231" src="https://github.com/DeepTag/CSTM/blob/main/Tagging/NHC023_LAX_0.gif"/><img width="185" height="231" src="https://github.com/DeepTag/CSTM/blob/main/Tagging/NHC023_LAX_1.gif"/><img width="185" height="231" src="https://github.com/DeepTag/CSTM/blob/main/Tagging/NHC023_LAX_2.gif"/></div>
+<div align=center><img width="185" height="231" src="https://github.com/DeepTag/CSTM/blob/main/Tagging/NHC023_LAX_3.gif"/><img width="185" height="231" src="https://github.com/DeepTag/CSTM/blob/main/Tagging/NHC023_LAX_4.gif"/><img width="185" height="231" src="https://github.com/DeepTag/CSTM/blob/main/Tagging/NHC023_LAX_5.gif"/></div>
 
 
 ## Acknowledgments
