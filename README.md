@@ -6,8 +6,8 @@ We propose a continuous spatio-temporal memory (CSTM) network for semi-supervise
 <div align=center><img width="820" height="406" src="https://github.com/DeepTag/CSTM/blob/main/cstm.png"/></div>
 
 ## Demo for short axis stack of untagged cine MRIs
-<div align=center><img width="185" height="231" src="https://github.com/DeepTag/CSTM/blob/main/patient109_0.gif"/><img width="185" height="231" src="https://github.com/DeepTag/CSTM/blob/main/patient109_1.gif"/><img width="185" height="231" src="https://github.com/DeepTag/CSTM/blob/main/patient109_2.gif"/><img width="185" height="231" src="https://github.com/DeepTag/CSTM/blob/main/patient109_3.gif"/></div>
-<div align=center><img width="185" height="231" src="https://github.com/DeepTag/CSTM/blob/main/patient109_4.gif"/><img width="185" height="231" src="https://github.com/DeepTag/CSTM/blob/main/patient109_5.gif"/><img width="185" height="231" src="https://github.com/DeepTag/CSTM/blob/main/patient109_6.gif"/><img width="185" height="231" src="https://github.com/DeepTag/CSTM/blob/main/patient109_7.gif"/></div>
+<div align=center><img width="185" height="231" src="https://github.com/DeepTag/CSTM/blob/main/Cine/patient109_0.gif"/><img width="185" height="231" src="https://github.com/DeepTag/CSTM/blob/main/Cine/patient109_1.gif"/><img width="185" height="231" src="https://github.com/DeepTag/CSTM/blob/main/Cine/patient109_2.gif"/><img width="185" height="231" src="https://github.com/DeepTag/CSTM/blob/main/Cine/patient109_3.gif"/></div>
+<div align=center><img width="185" height="231" src="https://github.com/DeepTag/CSTM/blob/main/Cine/patient109_4.gif"/><img width="185" height="231" src="https://github.com/DeepTag/CSTM/blob/main/Cine/patient109_5.gif"/><img width="185" height="231" src="https://github.com/DeepTag/CSTM/blob/main/Cine/patient109_6.gif"/><img width="185" height="231" src="https://github.com/DeepTag/CSTM/blob/main/Cine/patient109_7.gif"/></div>
 
 ## Acknowledgments
 Our code implementation borrows heavily from [STCN](https://github.com/hkchengrex/STCN).
