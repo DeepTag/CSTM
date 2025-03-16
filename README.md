@@ -1,5 +1,5 @@
 # CSTM
-This is the project page of the WACV 2025 paper CSTM [[arXiv](https://arxiv.org/abs/2410.23191)] [[Video](https://youtu.be/S9hyTAs8M64)].
+This is the project page of the WACV 2025 paper CSTM [[WACV25](https://openaccess.thecvf.com/content/WACV2025/html/Ye_Continuous_Spatio-Temporal_Memory_Networks_for_4D_Cardiac_Cine_MRI_Segmentation_WACV_2025_paper.html)][[arXiv](https://arxiv.org/abs/2410.23191)] [[Video](https://youtu.be/S9hyTAs8M64)].
 
 ## Continuous Spatio-Temporal Memory Networks for 4D Cardiac Cine MRI Segmentation.
 We propose a continuous spatio-temporal memory (CSTM) network for semi-supervised whole heart and whole sequence cardiac cine MRI segmentation. Our CSTM network takes full advantage of the spatial, scale, temporal and through-plane continuity prior of the underlying heart anatomy structures, to achieve accurate and fast 4D segmentation.
